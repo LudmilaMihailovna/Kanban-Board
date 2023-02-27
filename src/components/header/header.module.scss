@@ -1,0 +1,17 @@
+.header {
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  width: 1235px;
+  height: 55px;
+  justify-content: space-between;
+  color: #ffffff;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: #0067A3;
+  flex-shrink: 0;
+
+  h1 {
+    font-size: 28px;
+  }
+}
